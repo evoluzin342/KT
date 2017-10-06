@@ -1,18 +1,23 @@
-# KT
 
-Architecture Patterns around Angular
-
-
+# Architecture patterns around angular
 
 -Every Application contains two layers. 
-           -view layer(render the view based on the data we have in controller)
-           -service layer and also known as the data layer(fetch the data from the database and update the data in the controller)
 
-How should we design the service layer ?
--Should we use a store concept?
--We can use the patterns?
-in this session we can discuss NgRx,Flux pattern.
+- [View layer]- render the view based on the data we have in controller.
+- [service layer and also known as the data layer] - fetch the data from the database and update the data in the controller  
 
+
+## How should we design the service layer ?
+
+#### Should we use a store concept?
+
+#### We can use the patterns?
+
+#### In this session we can discuss NgRx,Flux pattern.
+
+  - [NgRX store](https://github.com/evoluzin342/ngrx) - 
+  - [Flux pattern](https://github.com/evoluzin342/Flux-pattern) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
+  
 ## Keyword
 
 - [Stores]- manage business data and state  
