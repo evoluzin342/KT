@@ -1,7 +1,7 @@
 
 # Architecture patterns around angular
 
--Every Application contains two layers. 
+###### Every Application contains two layers. 
 
 - [View layer]- render the view based on the data we have in controller.
 - [service layer and also known as the data layer] - fetch the data from the database and update the data in the controller  
