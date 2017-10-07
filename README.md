@@ -19,7 +19,8 @@
 
 #### In this session we can discuss NgRx,Flux pattern.
 
-  - [NgRX store](https://github.com/evoluzin342/ngrx) - Ngrx is a set of Angular libraries for reactive extensions.
+####  What about NgRx Store ?
+  - [NgRX store](https://github.com/evoluzin342/ngrx/blob/master/README.md) - Ngrx is a set of Angular libraries for reactive extensions.
      ### Included
      - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular apps, inspired by Redux
      - [@ngrx/effects](https://github.com/ngrx/effects) - Side effect model for @ngrx/store
