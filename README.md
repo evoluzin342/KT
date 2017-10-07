@@ -28,7 +28,7 @@
       
  #  What about Flux pattern?
  
-  - [Flux pattern](https://github.com/evoluzin342/Flux-pattern) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
+  - [Flux pattern](https://github.com/evoluzin342/Flux) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
 
 
 ## Refernces
