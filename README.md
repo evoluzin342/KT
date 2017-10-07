@@ -1,6 +1,15 @@
 
 # Architecture patterns around angular
 
+  
+## Keyword
+
+- [Stores]- manage business data and state  
+- [Reducer]- Reducers are the functions that know what to do with a given action and the previous state of your app.  
+- [View] - a hierarchical composition of React components   
+- [Actions] -events created from user events that triggered on the View  
+- [Dispatcher] - an event bus for all actions
+
 ###### Every Application contains two layers. 
 
 - [View layer]- render the view based on the data we have in controller.
@@ -32,14 +41,7 @@
  #  What about Flux pattern?
  
   - [Flux pattern](https://github.com/evoluzin342/Flux-pattern) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
-  
-## Keyword
 
-- [Stores]- manage business data and state  
-- [Reducer]- Reducers are the functions that know what to do with a given action and the previous state of your app.  
-- [View] - a hierarchical composition of React components   
-- [Actions] -events created from user events that triggered on the View  
-- [Dispatcher] - an event bus for all actions
 
 ## Refernces
 
