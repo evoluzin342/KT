@@ -4,7 +4,7 @@
   
 ## Keyword
 
-- [Stores]- manage business data and state  
+- [Store]- manage business data and state  
 - [Reducer]- Reducers are the functions that know what to do with a given action and the previous state of your app.  
 - [View] - a hierarchical composition of React components   
 - [Actions] -events created from user events that triggered on the View  
