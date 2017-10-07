@@ -35,11 +35,6 @@
 
 ## Refernces
 
-
-###` React vs Angular, unidirectional data flows and Performance Tuning`
-
-
-
 ### `Angular vs react:`
 
 - [Forms](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/) -
