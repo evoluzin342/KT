@@ -17,9 +17,10 @@
 ####  What about Flux ?
  
 
-#### In this session we can discuss NgRx,Flux pattern.
+#### In this   we can discuss NgRx,Flux pattern.
 
-####  What about NgRx Store ?
+# What about NgRx Store pattern ?
+
   - [NgRX store](https://github.com/evoluzin342/ngrx/blob/master/README.md) - Ngrx is a set of Angular libraries for reactive extensions.
      ### Included
      - [@ngrx/store](https://github.com/ngrx/store) - RxJS powered state management for Angular apps, inspired by Redux
@@ -28,7 +29,8 @@
      - [@ngrx/db](https://github.com/ngrx/db) - RxJS powered IndexedDB for Angular apps
       - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Instrumentation for @ngrx/store enabling time-travel debugging
       
- #  What about Flux ?
+ #  What about Flux pattern?
+ 
   - [Flux pattern](https://github.com/evoluzin342/Flux-pattern) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
   
 ## Keyword
