@@ -37,20 +37,23 @@
 
 
 ###` React vs Angular, unidirectional data flows and Performance Tuning`
--[Forms](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/) -
 
--[Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/) -
-
--[Unidirectional Data Flow](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/) -
-
--[Performance 1](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)-
-
--[Performance 2](https://github.com/mgechev/angular-performance-checklist)-
-
--[ZoneJS](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)-
 
 
 ### `Angular vs react:`
+
+- [Forms](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/) -
+
+- [Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/) -
+
+- [Unidirectional Data Flow](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/) -
+
+- [Performance 1](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6) -
+
+- [Performance 2](https://github.com/mgechev/angular-performance-checklist) -
+
+- [ZoneJS](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html) -
+ 
 - [a](https://rubygarage.org/blog/react-vs-angularjs) -
 
 - [b](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc) -
