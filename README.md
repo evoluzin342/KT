@@ -24,7 +24,7 @@
 
 # What about NgRx Store pattern ?
 
-  - [A Word about Ngrx](https://github.com/evoluzin342/ngrx/blob/master/README.md) - Ngrx is a set of Angular libraries for reactive extensions.
+  - [A Word about Ngrx](https://github.com/evoluzin342/NgRX) - Ngrx is a set of Angular libraries for reactive extensions.
       
  #  What about Flux pattern?
  
