@@ -9,9 +9,13 @@
 
 ## How should we design the service layer ?
 
-#### Should we use a store concept?
-
-#### We can use the patterns?
+####  How should we structure the service layer ?
+####  Should we use a store ?
+####  Should we use Redux ?
+####  Should we use plain RxJs ?
+####  What about NgRx Store ?
+####  What about Flux ?
+ 
 
 #### In this session we can discuss NgRx,Flux pattern.
 
