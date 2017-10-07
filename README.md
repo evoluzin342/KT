@@ -26,7 +26,8 @@
      - [@angular/router](https://github.com/angular/angular) - Angular Router
      - [@ngrx/db](https://github.com/ngrx/db) - RxJS powered IndexedDB for Angular apps
       - [@ngrx/store-devtools](https://github.com/ngrx/store-devtools) - Instrumentation for @ngrx/store enabling time-travel debugging
- 
+      
+ #  What about Flux ?
   - [Flux pattern](https://github.com/evoluzin342/Flux-pattern) - Flux is a pattern for unidirectional data flows Actions encapsulate events Dispatcher is a central hub that holds callbacks Stores hold app state Many implementations
   
 ## Keyword
