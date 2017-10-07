@@ -35,11 +35,114 @@
 
 ## Refernces
 
-https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/
 
-https://www.toptal.com/angular-js/ngrx-angular-reaction-application
+###` React vs Angular, unidirectional data flows and Performance Tuning`
+-[Forms](https://blog.angular-university.io/introduction-to-angular-2-forms-template-driven-vs-model-driven/) -
 
-https://github.com/ngrx/platform/tree/master/example-app
+-[Change Detection](https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/) -
 
-https://softwareengineering.stackexchange.com/questions/295119/understanding-flux-pattern
+-[Unidirectional Data Flow](https://blog.angular-university.io/angular-2-what-is-unidirectional-data-flow-development-mode/) -
+
+-[Performance 1](https://medium.com/paramsingh-66174/catalysing-your-angular-4-app-performance-9211979075f6)-
+
+-[Performance 2](https://github.com/mgechev/angular-performance-checklist)-
+
+-[ZoneJS](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)-
+
+
+### `Angular vs react:`
+- [a](https://rubygarage.org/blog/react-vs-angularjs) -
+
+- [b](https://hackernoon.com/angular-vs-react-the-deal-breaker-7d76c04496bc) -
+
+- [c](https://www.cleveroad.com/blog/react-vs-angular-ultimate-performance-research-2017) -
+
+
+- [d](https://www.pluralsight.com/guides/front-end-javascript/angular-vs-react-a-side-by-side-comparison) -
+
+- [e](https://www.sitepoint.com/react-vs-angular/) -
+
+- [f](https://da-14.com/blog/reactjs-vs-angular-comparison-which-better) -
+
+- [g](https://www.toptal.com/front-end/angular-vs-react-for-web-development) -
+
+- [h](https://www.quora.com/Is-React-killing-Angular) -
+
+- [i](https://www.codementor.io/chrisharrington/react-vs-angularjs-vs-knockoutjs-a-performance-comparison-85hwzepbz) -
+
+### `Uni direction topic`
+
+- [a](https://medium.com/@AdamRNeary/unidirectional-data-flow-yes-flux-i-am-not-so-sure-b4acf988196c) -
+
+- [b](https://www.tamtam.nl/en/reactivity-state-and-a-unidirectional-data-flow/) -
+
+- [c](https://stackoverflow.com/questions/33447710/mvc-vs-flux-bidirectional-vs-unidirectional)) -
+
+### `AOT`
+
+- [a](https://angular.io/guide/aot-compiler) )) -
+
+- [b](http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/)) -
+
+- [c](https://angular-2-training-book.rangle.io/handout/aot/) -
+
+- [d](https://stackoverflow.com/questions/41450226/angular-2-just-in-time-jit-vs-ahead-of-time-aot-compilation) -
+
+- [e](https://objectpartners.com/2017/04/14/ahead-of-time-compilation-with-angular/) -
+
+- [f](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/) -
+
+
+### `NgRX store`
+
+- [Redux & ngRx](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/) -
+
+- [ngRx Store](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) -
+
+- [example-1](https://www.toptal.com/angular-js/ngrx-angular-reaction-application) -
+
+- [example-2](https://github.com/ngrx/platform/tree/master/example-app)-
+
+
+### `Flux pattern`
+
+- [What is Flux](http://fluxxor.com/what-is-flux.html) -
+
+- [understanding-flux-pattern](https://softwareengineering.stackexchange.com/questions/295119/understanding-flux-pattern) -
+ 
+- [example-1](https://github.com/ngrx/platform/tree/master/example-app) -
+
+### `Observables`
+- [overview](http://reactivex.io/documentation/observable.html) -
+
+- [observable-](http://reactivex.io/documentation/observable.html) -
+
+
+### `RxJS`
+
+- [overview](http://reactivex.io/rxjs/manual/overview.html) -
+
+- [rxjs](https://blog.angular-university.io/functional-reactive-programming-for-angular-2-developers-rxjs-and-observables/) -
+
+- [Common Issues](https://blog.angular-university.io/how-to-build-angular2-apps-using-rxjs-observable-data-services-pitfalls-to-avoid/) -
+
+- [Debugging](https://blog.angular-university.io/debug-rxjs/) -
+
+- [rxjs-observables-observers-operators](https://toddmotto.com/rxjs-observables-observers-operators)-
+
+- [introduction-observables-angular-developers](https://developer.telerik.com/topics/web-development/introduction-observables-angular-developers/) -
+
+- [rx-book](https://xgrommx.github.io/rx-book/why_rx.html) -
+
+- [observable](http://jsclass.jcoglan.com/observable.html) -
+
+- [rxjs-functions-with-examples](https://www.sitepoint.com/rxjs-functions-with-examples/) -
+
+
+
+
+
+
+
+
 
